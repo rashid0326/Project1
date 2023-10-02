@@ -1,4 +1,4 @@
-# Project1
+# project1
 ADDED HTML FILE
 
 Main.html: had an issue but fixed it
